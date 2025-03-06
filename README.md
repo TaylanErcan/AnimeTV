@@ -5,7 +5,7 @@ Proje Kategorisi: Online İçerik Platformu
 
 Referans Uygulama: https://www.turkanime.co
 
-Uygulama Adresi: www.newsekai.com
+Uygulama Adresi: www.sekaizero.com
 
 Grup Adı: Tango1
 
