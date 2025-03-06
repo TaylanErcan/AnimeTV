@@ -15,7 +15,7 @@ Gereksinimler:
 1. Yeni Bölümleri Listeleme
 2. Seri Görüntüleme
 3. Yorum Yapma
-4. Üye olma
+4. Üye Olma
 5. Giriş Yapma
 6. Hatırlatma
 7. Üyelik İptal Etme
