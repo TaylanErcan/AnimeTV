@@ -11,5 +11,5 @@ Grup Adı: Tango1
 
 Proje Ekibi: Taylan Ercan
 
-1. ![Gereksinim Analizi](https://github.com/TaylanErcan/AnimeTV/blob/e8a3149cc7a0096507388f66d21b6c476d953518/GereksinimAnalizi.md)
+1. !GereksinimAnalizi(https://github.com/TaylanErcan/AnimeTV/blob/e8a3149cc7a0096507388f66d21b6c476d953518/GereksinimAnalizi.md)
 
