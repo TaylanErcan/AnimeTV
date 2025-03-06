@@ -5,7 +5,7 @@ Gereksinimler:
 4. Üye Olma: Kullanıcıların hesap oluşturarak site içerisinde kimlik edinmelerini sağlar. Kullanıcıya ait yaş, doğum tarihi gibi bilgilerin toplanarak veri güvenliği esasına göre depolanmasını ve kimlik doğrulama işlemlerini içerir. Kullanıcılar rumuz ve şifre kombinasyonu belirleyerek hesaplarını oluştururlar. Bu gereksinim sayesinde kullanıcılar bilgilendirme ve hatırlatma gibi servislerden faydalanarak, yayın hizmetinin tüm fonksiyonlarına kullanabilir duruma gelmektedir.
 5. Giriş Yapma: çeşitli kimlik doğrulama protokollerini içeren bir işlemdir. Kullacının hesabına yalnıza yetkili girişin sağlanmasını amaçlar. Giriş işlemi belirli bir rumuz ve şifre kombinasyonuyla gerçekleşir.
 7. Üyelik İptal Etme: Admin rolündeki kullanıcının, kural ihlallerinde bulunan ve topluluğa aykırı davranışlar sergileyen kullanıcıların sitedeki belirli fonksiyonlara erişimini engellemesini sağlar.
-8. Bölüm Ekleme
-9. Kişisel Bilgileri Düzenleme
-10. Bölüm Puanlama
-11. Yorum Silme
+8. Bölüm Ekleme: yönetici rolündeki kullanıcı tarafından serilerin güncel bölümlerle desteklenmesini sağlar.
+10. Kişisel Bilgileri Düzenleme: Kullanıcının adres, iletişim, şifre değişikliği gibi kişisel bilgilerinde değişiklik yapmasını sağlayan bir işlevselliktir.
+12. Bölüm Puanlama: kullanıcıların izledikleri bölümleri 5 üzerinden puanlaması ve böylelikle diğer kullanıcıların seçiçmlerinde referans olarak alabileceği bir kriter sağlanması amaçlanmaktadır.
+13. Yorum Silme: Yönetici rolündeki kullanıcının uygunsuz yorumlara müdahale ederek site belleğinden kaldırmasını sağlar.
