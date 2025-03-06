@@ -1,5 +1,5 @@
 Proje tanımı: Ziyaretçilerimizin farklı türdeki animeleri serilerini online olarak, farklı entegre medya oynatıcıları aracığıyla izleyebileceği ve yorumlarını paylaşabileceği bir yayın platformudur. Sitemiz                  kullanıcılarımızın figürler, baskılı tişörtler gibi ürün alımları yapabileceği bir mağazaya sahip olacaktır. Dünya çapındaki stüdyolar tarafından yayın mevsimi tarihi belirlenen animelere 
-              kolayca ulaşabilecekleri güncel bir içerik bütünü sunuyoruz. Rahatlıkla hakim olabileceğiniz bir arayüzümüz sayesinde akıcı bir seyir deneyimi sizleri bekliyor.
+              kolayca ulaşabilecekleri güncel bir içerik bütünü sunuyoruz. Rahatlıkla hakim olabileceğiniz arayüzümüz sayesinde akıcı bir seyir deneyimi sizleri bekliyor.
 
 Proje Kategorisi: Online İçerik Platformu
 
