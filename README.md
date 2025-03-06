@@ -11,6 +11,5 @@ Grup Adı: Tango1
 
 Proje Ekibi: Taylan Ercan
 
-1. GereksinimAnalizi.md
-
+1. GereksinimAnalizi
 
