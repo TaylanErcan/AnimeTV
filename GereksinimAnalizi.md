@@ -13,11 +13,12 @@ Gereksinimler:
 6-Üyelik İptal Etme: Admin rolündeki kullanıcının, kural ihlallerinde bulunan ve topluluğa aykırı davranışlar sergileyen kullanıcıların sitedeki belirli fonksiyonlara erişimini engellemesini sağlar.
    
 7-Bölüm Ekleme: yönetici rolündeki kullanıcı tarafından serilerin güncel bölümlerle desteklenmesini sağlar.
+
 8-Kişisel Bilgileri Düzenleme: Kullanıcının adres, iletişim, şifre değişikliği gibi kişisel bilgilerinde değişiklik yapmasını sağlayan bir işlevselliktir.
 
 9-Bölüm Puanlama: kullanıcıların izledikleri bölümleri 5 üzerinden puanlaması ve böylelikle diğer kullanıcıların seçiçmlerinde referans olarak alabileceği bir kriter sağlanması amaçlanmaktadır.
    
 10)Yorum Silme: Yönetici rolündeki kullanıcının uygunsuz yorumlara müdahale ederek site belleğinden kaldırmasını sağlar.
     
-11)Bölüm Ünerme:
+11)Bölüm Önerme:
  
