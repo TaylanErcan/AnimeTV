@@ -9,3 +9,4 @@ Gereksinimler:
 10. Kişisel Bilgileri Düzenleme: Kullanıcının adres, iletişim, şifre değişikliği gibi kişisel bilgilerinde değişiklik yapmasını sağlayan bir işlevselliktir.
 12. Bölüm Puanlama: kullanıcıların izledikleri bölümleri 5 üzerinden puanlaması ve böylelikle diğer kullanıcıların seçiçmlerinde referans olarak alabileceği bir kriter sağlanması amaçlanmaktadır.
 13. Yorum Silme: Yönetici rolündeki kullanıcının uygunsuz yorumlara müdahale ederek site belleğinden kaldırmasını sağlar.
+14. Bölüm Ünerme
