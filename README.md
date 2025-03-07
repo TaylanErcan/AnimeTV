@@ -7,7 +7,7 @@ Referans Uygulama: https://www.turkanime.co
 
 Uygulama Adresi: www.sekaizerotwo.com
 
-Grup Adı: Tango1
+Grup Adı: Mirage
 
 Proje Ekibi: Taylan Ercan
 
