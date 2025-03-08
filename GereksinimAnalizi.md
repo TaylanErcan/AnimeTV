@@ -1,6 +1,6 @@
 Gereksinimler:
 
-1-Yeni Bölümleri Listeleme: Kullanıcılara haftalık olarak yeni eklenen bölümlerin listelenmesi işlevini yerine getirir.
+1-Haber Silme:
 
 2-Butonla Arama: Kullanıcının arama butonundan aradığı spesifik bir seriyi veyahut alfabetik liste opsiyonuyla tüm serileri izleyici puanı,bölüm sayısı gibi bilgilerle erişmesini sağlanır. Bu işlevsellik, kullanıcının vakitten tasarruf etmesini ve sitede ilgili içeriğe ulaşırken harcadığı gezinme süresini minimize etmeyi amaçlanmaktadır.
 
