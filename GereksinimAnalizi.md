@@ -32,7 +32,7 @@ Gereksinimler:
 
 16-Haber Ekleme: Kullanıcıların serileri ve projeleri üstlenen şirketler hakkında bilgi edinmesini, iptal edilme durumu veyahut seslendirme kadorsu gibi bilgileri edinmesini amaçlayan bir araçtır.
 
-17- Favorilere Ekleme: Kullanıcıların izledikleri serileri ve bus eriye ait bölümleri favori listesine ekleyerek ilerleyen zamanlarda tekrar izlemek istediğinde kolayaca ulaşabilmesini sağlayan bir işlevselliktir.
+17- Favorilere Ekleme: Kullanıcıların izledikleri serileri ve ilgili seriye ait bölümleri favori listesine ekleyerek ilerleyen zamanlarda tekrar izlemek istediğinde kolayaca ulaşabilmesini sağlayan bir işlevselliktir.
 
 18- Yorum Beğenme: Kullanıcıların bölümlerine yapılan yorumları veyahut forumdaki yorumları beğenmesini sağlar.
 
