@@ -20,27 +20,27 @@ Gereksinimler:
    
 10-Yorum Silme: Yönetici rolündeki kullanıcının uygunsuz yorumlara müdahale ederek site belleğinden kaldırmasını sağlar.
     
-11-Bölüm Önerme:
+11-Seri Önerme: Kullanıcının izleme geçmişini baz alarak ilgisini çekebileceği yeni seri önerilerinde bulunmayı sağlayan bir işlevtir.
 
-12-Gece Moduna Alma:
+12-Gece Moduna Alma: Sitenin css ayarlarını değiştirerek gözü yormayan koyu temaya geçişi sağlar.
 
-13-Forumda Başlık Açma:
+13-Forumda Başlık Açma: Forum sitesinde tartışma ve eleştiri konularında kullanıcıların kendini ifade edebileceği, eleştiri yöneltebileceği bir araç sağlar.
 
-14-Türe Göre Filtreleme:
+14-Türe Göre Filtreleme: Arşivdeki serileri türlerine göre filtreleyerek kullanıcıya arama süresinde tasarruf sağlar.
 
-15-Alfabetik Listeleme:
+15-Alfabetik Listeleme: Arşivdeki bölümlerin alfabetik kurallara göre sıralanmasını sağlar.
 
-16-Haber Ekleme:
+16-Haber Ekleme: Kullanıcıların serileri ve projeleri üstlenen şirketler hakkında bilgi edinmesini, iptal edilme durumu veyahut seslendirme kadorsu gibi bilgileri edinmesini amaçlayan bir araçtır.
 
-17- Favorilere Ekleme:
+17- Favorilere Ekleme: Kullanıcıların izledikleri serileri ve bus eriye ait bölümleri favori listesine ekleyerek ilerleyen zamanlarda tekrar izlemek istediğinde kolayaca ulaşabilmesini sağlayan bir işlevselliktir.
 
-18- Yorum Beğenme:
+18- Yorum Beğenme: Kullanıcıların bölümlerine yapılan yorumları veyahut forumdaki yorumları beğenmesini sağlar.
 
-19- Daha Sonra İzleme:
+19- Daha Sonra İzleme: Kullanıcıların zaman bulamadığı için veyahut herhangi bir sebeple izleyemediği, karşı arzu ettiği bir zamanda izleyecekleri bölümlerin listesini tutar böylelikle kullanıcının unutma ihtimalini ortadan kaldırır. 
 
-20- İzlediklerim Listesine Ekleme:
+20- İzlediklerim Listesine Ekleme: Kullanıcının izlemiş olduğu bölümleri tutulduğu listedir. Kullanıcı bu sayede kendini güncel tutabilir ve hangi bölümde kaldığını görebilir.
 
-21- Çıkış Yapma:
+21- Çıkış Yapma: Kullacının sistemden ve siteden güvenli şekilde çıkış yapmasını sağlayan işlevdir.
 
-22- Chatbox Oluşturma:
+22- Chatbox Oluşturma: Kullanıcıların misafir veya üye rolünde site içerisinde vakit geçirirken anlık olarak/düşükm gecikmeyle diğer insanlarla sohbet edebileceği, içerik paylaşacağı kısaca etkileşime girebileceği bir platform sağlar.
  
