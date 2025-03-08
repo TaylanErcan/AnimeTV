@@ -30,7 +30,7 @@ Gereksinimler:
 
 15-Alfabetik Listeleme: Arşivdeki bölümlerin alfabetik kurallara göre sıralanmasını sağlar.
 
-16-Haber Ekleme: Kullanıcıların serileri ve projeleri üstlenen şirketler hakkında bilgi edinmesini, iptal edilme durumu veyahut seslendirme kadorsu gibi bilgileri edinmesini amaçlayan bir araçtır.
+16-Haber Ekleme: Kullanıcıların serileri ve projeleri üstlenen şirketler hakkında bilgi edinmesini, iptal edilme durumu veyahut seslendirme kadrosu gibi bilgileri edinmesini amaçlayan bir araçtır.
 
 17- Favorilere Ekleme: Kullanıcıların izledikleri serileri ve ilgili seriye ait bölümleri favori listesine ekleyerek ilerleyen zamanlarda tekrar izlemek istediğinde kolayaca ulaşabilmesini sağlayan bir işlevselliktir.
 
