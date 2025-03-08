@@ -24,7 +24,7 @@ Gereksinimler:
 
 12-Gece Moduna Alma: Sitenin css ayarlarını değiştirerek gözü yormayan koyu temaya geçişi sağlar.
 
-13-Forumda Başlık Açma: Forum sitesinde tartışma ve eleştiri konularında kullanıcıların kendini ifade edebileceği, eleştiri yöneltebileceği bir araç sağlar.
+13-Forumda Başlık Açma: Forum sitesinde tartışma ve eleştiri konularında kullanıcıların kendini ifade edebileceği, eleştiri yöneltebileceği bu sayede geribildirimlerle sitenin iyileştirmesine katkıda bulunabilecek bir araç sağlar.
 
 14-Türe Göre Filtreleme: Arşivdeki serileri türlerine göre filtreleyerek kullanıcıya arama süresinde tasarruf sağlar.
 
