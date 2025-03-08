@@ -2,7 +2,7 @@ Gereksinimler:
 
 1-Yeni Bölümleri Listeleme: Kullanıcılara haftalık olarak yeni eklenen bölümlerin listelenmesi işlevini yerine getirir.
 
-2-Seri Görüntüleme: Kullanıcının arama butonundan aradığı spesifik bir seriyi veyahut alfabetik liste opsiyonuyla tüm serileri izleyici puanı,bölüm sayısı gibi bilgilerle erişmesini sağlanır. Bu işlevsellik, kullanıcının vakitten tasarruf etmesini ve sitede ilgili içeriğe ulaşırken harcadığı gezinme süresini minimize etmeyi amaçlanmaktadır.
+2-Butonla Arama: Kullanıcının arama butonundan aradığı spesifik bir seriyi veyahut alfabetik liste opsiyonuyla tüm serileri izleyici puanı,bölüm sayısı gibi bilgilerle erişmesini sağlanır. Bu işlevsellik, kullanıcının vakitten tasarruf etmesini ve sitede ilgili içeriğe ulaşırken harcadığı gezinme süresini minimize etmeyi amaçlanmaktadır.
 
 3- Yorum Yapma: kullanıcıların izledikleri bölüm hakkında duygu ve düşüncelerini paylaşmasını sağlar.
 
@@ -18,7 +18,27 @@ Gereksinimler:
 
 9-Bölüm Puanlama: kullanıcıların izledikleri bölümleri 5 üzerinden puanlaması ve böylelikle diğer kullanıcıların seçiçmlerinde referans olarak alabileceği bir kriter sağlanması amaçlanmaktadır.
    
-10)Yorum Silme: Yönetici rolündeki kullanıcının uygunsuz yorumlara müdahale ederek site belleğinden kaldırmasını sağlar.
+10-Yorum Silme: Yönetici rolündeki kullanıcının uygunsuz yorumlara müdahale ederek site belleğinden kaldırmasını sağlar.
     
-11)Bölüm Önerme:
+11-Bölüm Önerme:
+
+12-Gece Moduna Alma:
+
+13-ChatBox'a Yazma:
+
+14-Türe Göre Filtreleme:
+
+15-Alfabetik Listeleme:
+
+16-Haber Ekleme:
+
+17- Favorilere Ekleme:
+
+18- Yorum Beğenme:
+
+19- Daha Sonra İzleme:
+
+20- İzlediklerim Listesine Ekleme:
+
+21- Çıkış Yapma:
  
