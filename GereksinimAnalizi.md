@@ -24,7 +24,7 @@ Gereksinimler:
 
 12-Gece Moduna Alma: Sitenin css ayarlarını değiştirerek gözü yormayan koyu temaya geçişi sağlar.
 
-13-Forumda Başlık Açma: Forum sitesinde tartışma ve eleştiri konularında kullanıcıların kendini ifade edebileceği, eleştiri yöneltebileceği bu sayede geribildirimlerle sitenin iyileştirmesine katkıda bulunabilecek bir araç sağlar.
+13-Forumda Başlık Açma: Forum sitesinde tartışma ve eleştiri konularında kullanıcıların kendini ifade edebileceği, eleştiri yöneltebileceği bu sayede geribildirimlerle sitenin iyileştirilmesine katkıda bulunabilecek bir araç sağlar.
 
 14-Türe Göre Filtreleme: Arşivdeki serileri türlerine göre filtreleyerek kullanıcıya arama süresinde tasarruf sağlar.
 
@@ -36,7 +36,7 @@ Gereksinimler:
 
 18- Yorum Beğenme: Kullanıcıların bölümlerine yapılan yorumları veyahut forumdaki yorumları beğenmesini sağlar.
 
-19- Daha Sonra İzleme: Kullanıcıların zaman bulamadığı için veyahut herhangi bir sebeple izleyemediği, karşı arzu ettiği bir zamanda izleyecekleri bölümlerin listesini tutar böylelikle kullanıcının unutma ihtimalini ortadan kaldırır. 
+19- Daha Sonra İzleme: Kullanıcıların zaman bulamadığı için veyahut herhangi bir sebeple izleyemediği, karşı arzu ettiği bir zamanda izleyecekleri bölümlerin listesini tutar. Böylelikle kullanıcının unutma ihtimalini ortadan kaldırır. 
 
 20- İzlediklerim Listesine Ekleme: Kullanıcının izlemiş olduğu bölümleri tutulduğu listedir. Kullanıcı bu sayede kendini güncel tutabilir ve hangi bölümde kaldığını görebilir.
 
