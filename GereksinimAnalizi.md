@@ -38,7 +38,7 @@ Gereksinimler:
 
 19- Daha Sonra İzleme: Kullanıcıların zaman bulamadığı için veyahut herhangi bir sebeple izleyemediği, karşı arzu ettiği bir zamanda izleyecekleri bölümlerin listesini tutar. Böylelikle kullanıcının unutma ihtimalini ortadan kaldırır. 
 
-20- İzlediklerim Listesine Ekleme: Kullanıcının izlemiş olduğu bölümleri tutulduğu listedir. Kullanıcı bu sayede kendini güncel tutabilir ve hangi bölümde kaldığını görebilir.
+20- İzlediklerim Listesine Ekleme: Kullanıcının izlemiş olduğu bölümlerin tutulduğu listedir. Kullanıcı bu sayede kendini güncel tutabilir ve hangi bölümde kaldığını görebilir.
 
 21- Çıkış Yapma: Kullacının sistemden ve siteden güvenli şekilde çıkış yapmasını sağlayan işlevdir.
 
