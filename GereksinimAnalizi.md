@@ -24,7 +24,7 @@ Gereksinimler:
 
 12-Gece Moduna Alma:
 
-13-ChatBox'a Yazma:
+13-Forumda Başlık Açma:
 
 14-Türe Göre Filtreleme:
 
